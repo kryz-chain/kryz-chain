@@ -45,4 +45,4 @@ Thank you for visiting. Let’s push the boundaries of blockchain technology tog
 
 # Contacts
 
-### [Twitter](https://x.com/kryz_chain) 🌀 [Gitbook](https://kryz-chain.notion.site/Kryz-Chain-1124994767164ba29d8df43dbaccabb3) 🌀 [Keybase](https://keybase.io/kryz_oldman) 🌀 [Mirror](https://mirror.xyz/0x34f663B5d47D18498e903f8581CB34D85737f5DD) 🌀 [Discord](https://discord.com/users/960302299597635704)
+### [Twitter](https://x.com/kryz_chain) 🌀 [Notion](https://kryz-chain.notion.site/Kryz-Chain-1124994767164ba29d8df43dbaccabb3) 🌀 [Keybase](https://keybase.io/kryz_oldman) 🌀 [Mirror](https://mirror.xyz/0x34f663B5d47D18498e903f8581CB34D85737f5DD) 🌀 [Discord](https://discord.com/users/960302299597635704)
